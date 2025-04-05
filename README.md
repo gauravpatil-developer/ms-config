@@ -1,2 +1,1 @@
-# ms-config
-Java Microservice configuration files
+# eazybytes-config
